@@ -1,0 +1,21 @@
+{
+  "name": "twtich_automatic_bbak",
+  "version": "0.0.1",
+  "description": "automatic VOD downloader for bbak",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "bbak",
+    "twitch",
+    "download",
+    "VOD"
+  ],
+  "author": "ousion",
+  "license": "MIT",
+  "dependencies": {
+    "node-hls-downloader": "^2.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
